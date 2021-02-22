@@ -1,5 +1,5 @@
 # Working wonders slackbot
-### Winner of Best use of echoAR at UottaHacks2021
+#### Winner of Best use of echoAR at UottaHacks2021
 
 
 ## Inspiration

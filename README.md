@@ -1,4 +1,4 @@
-# Working wonders slackbot
+# Working Wonders slackbot
 #### Winner of Best use of echoAR at UottaHacks2021 :)
 
 

@@ -25,4 +25,4 @@ We also have scheduled messages that we incorporated to help automate some proce
 ## How we built it 
 The Bot was designed using the SlackAPI and programmed using python. Using the SlackAPI commands the bot was programmed to increase social interaction and incite more conversations during the Covid-19 remote working regulation. The bot has a variety of commands to help workers engage in conversations with their fellow colleagues. With a wide selection of virtual games to be played during lunch breaks or perhaps take a short relaxing break using the EchoAR generated QR Codes to devel into the world of augmented reality and admire or play with what they are as shown. Workers are also able to request a singular meme from the bot and enjoy a short laugh or spark a funny conversation with others who also see the meme. Overall, the bot was built with the mindset of further enhancing social communication in a fun manner to help those working remotely feel more at ease.
 
-Devpost: [Working Wonders](https://devpost.com/software/slackbot-qchir7)
+Devpost: [devpost.com/WorkingWonders](https://devpost.com/software/slackbot-qchir7)

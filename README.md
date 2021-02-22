@@ -7,7 +7,7 @@ As a team, we wanted to help promote better workplace relationships and connecti
 
 ## What it does
 When the Slackbot is added to a workplace on slack, the team is capable of accessing various commands. The commands are used with the / prefix. Some of the commands include:
-- help: To get help
+- `help:` To get help
 - game-help : To get game help
 - game-skribble : Provides a link to a skribble.io game
 - game-chess : Provides a link to a chess game
